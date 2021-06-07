@@ -4,7 +4,7 @@
     "keywords":["QueryList","phpQuery","spider"],
     "homepage": "http://querylist.cc",
     "require": {
-        "PHP":">=7.1",
+        "PHP":">=7.4",
         "jaeger/phpquery-single": "^1",
         "jaeger/g-http": "^1.1",
         "ext-dom": "*",
@@ -18,6 +18,10 @@
         {
             "name": "Jaeger",
             "email": "JaegerCode@gmail.com"
+        },
+        {
+            "name": "Lindowx",
+            "email": "lindowx@gmail.com"
         }
     ],
     "autoload":{
